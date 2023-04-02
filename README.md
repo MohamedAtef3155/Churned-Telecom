@@ -31,7 +31,9 @@ In this project, I will build dashboards that will Analyze telecommunication com
 ![3 Data integration](https://user-images.githubusercontent.com/126327548/229359217-8caab190-8321-4bf8-ad30-da52c70f3e5e.png)
 ![4 Data integration](https://user-images.githubusercontent.com/126327548/229359229-73b53a46-0eaf-4f68-9d43-d363896e13f5.png)
 ![5 data integration](https://user-images.githubusercontent.com/126327548/229359233-6ee81e44-ccfb-4e4f-9fbb-b0a30d477be2.png)
-![6 data integration](https://user-images.githubusercontent.com/126327548/229359242-a58f298b-023b-48ad-8403-bc5a7f804d28.png)
+![6 data integration](https://user-images.githubusercontent.com/126327548/229359886-924fe4f5-8364-4f5a-b765-ec040029bb4d.png)
+
+
 
 # Data Warehouse Schema (OLAP)
 ![7 DWH](https://user-images.githubusercontent.com/126327548/229359299-cb852ef3-566f-4376-8d43-1840599c8749.png)
