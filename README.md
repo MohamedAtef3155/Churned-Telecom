@@ -1,6 +1,8 @@
-# Churned-Telecom-Full-project-
+# Churned-Telecom
 
-image
+![image](https://user-images.githubusercontent.com/126327548/229357378-0e073a98-e00c-43b7-a762-57ed64b6068c.png)
+
+
 In this project, I will build dashboards that will Analyze telecommunication company's data To determine the reasons of churning out from it!
 
 project steps :
