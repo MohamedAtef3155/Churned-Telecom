@@ -23,6 +23,25 @@ In this project, I will build dashboards that will Analyze telecommunication com
 * POWER BI
 * EXCEL
 * power point
+
+![1 Data source](https://user-images.githubusercontent.com/126327548/229359134-3e60a081-b695-4d82-9129-31a9ca5c344c.png)
+![2Data gathering](https://user-images.githubusercontent.com/126327548/229359142-5bc2bdbb-5523-4b18-ba0c-adebb4355287.png)
+
+# Data Integration (SSIS)
+![3 Data integration](https://user-images.githubusercontent.com/126327548/229359217-8caab190-8321-4bf8-ad30-da52c70f3e5e.png)
+![4 Data integration](https://user-images.githubusercontent.com/126327548/229359229-73b53a46-0eaf-4f68-9d43-d363896e13f5.png)
+![5 data integration](https://user-images.githubusercontent.com/126327548/229359233-6ee81e44-ccfb-4e4f-9fbb-b0a30d477be2.png)
+![6 data integration](https://user-images.githubusercontent.com/126327548/229359242-a58f298b-023b-48ad-8403-bc5a7f804d28.png)
+
+# Data Warehouse Schema (OLAP)
+![7 DWH](https://user-images.githubusercontent.com/126327548/229359299-cb852ef3-566f-4376-8d43-1840599c8749.png)
+
+# Cube (SSAS)
+![8 Cube](https://user-images.githubusercontent.com/126327548/229359337-14181dfd-eb25-4f05-9053-ccc0f3e3d3b9.png)
+
+# SSRS
+![9 Report](https://user-images.githubusercontent.com/126327548/229359369-7d601049-a5a7-4288-abb1-9513e240eb87.png)
+
 # Dashboards (Power BI)
 ![Screenshot_2](https://user-images.githubusercontent.com/70976091/153680609-eb8b0db9-1b30-40f7-a6ce-bf5e5f6b544b.png)
 
